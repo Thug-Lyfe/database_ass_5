@@ -9,5 +9,5 @@ Q.2 at In [34]
 Q.2 at In [51]
 - 11 customers who are from USA and does not have an email with yahoo.com
 
-Q.4 at In[90]
+Q.4 at In[104]
 - 11 albums where it is either made by bach or mozart, or either of them are mentioned are mentioned in the title
